@@ -2,7 +2,7 @@
 
 # Rashmiprakash Satapathy
 
-**SDE – Enterprise SaaS** @ Mercados Energy Markets India Limited
+**Analyst – Enterprise SaaS** @ Mercados Energy Markets India Limited
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rpsatapathy04)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rashmiprakash-56)
@@ -51,7 +51,7 @@
 
 ## Work Experience
 
-**SDE – Enterprise SaaS** | Mercados Energy Markets *(July 2025 – Present)*
+**Analyst – Enterprise SaaS** | Mercados Energy Markets *(July 2025 – Present)*
 - Built RESTful billing APIs (Django + MongoDB) for UPPCL's bill verification platform — **300+ power plants**, 100K+ records
 - Optimized MongoDB query performance via bulk strategies and modular service-layer architecture
 - Built a Python optimization service solving multi-constraint resource adequacy problems (PRM, LOLP, EENS, RPO)
